@@ -6721,6 +6721,11 @@ header.affix  .logo-2, .header.affix.no-transparent .logo-2 {
 }
 .logo-img {
   height: 42px;
+  margin-right: 4px;
+}
+.clearfix.logo-txt {
+    color: #fff;
+    font-weight: bold;
 }
 header .logo .logo-img {
 	transition: all .4s ease 0s;
