@@ -5019,7 +5019,9 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
     display: block;
   }
 }
-
+.container.gallery {
+    background: #ceffde4d;
+}
 /* #BLOG SECTION 2 #NEW
 =====================================================*/
 .blog2-post-title-cont, .blog2-post-prev-text {
