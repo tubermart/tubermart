@@ -302,7 +302,7 @@ if it's not present, don't show loader */
   width: 40px;
   height: 40px;
   margin: -20px 0 0 -20px;
-  background-color: #b6b6b7;
+  background-color: #03a9f4;
   border-radius: 50%;  
   -webkit-animation: scaleout 1.1s infinite ease-in-out;
   animation: scaleout 1.1s infinite ease-in-out;
