@@ -1,6 +1,6 @@
 {
-	"version":"1.12",
-	"versionCode":13,
+	"version":"1.11",
+	"versionCode":12,
 	"changes":"1. Added placeholder images while images are loading.\n2. Pending download list got clear while clearing finished download list (Fixed).\n3. Download sound and vibration on download finish.\n4. Settings to change download sound, turn on/off sound and vibration.",
 	"url":"https://sites.google.com/site/androidplacez/downloads/TubeLite_1.10.apk?attredirects=0&d=1"
 }
